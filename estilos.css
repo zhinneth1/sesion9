@@ -10,7 +10,7 @@ nav a{
     text-decoration: rgb(255, 0, 0);
     font-weight: bold;
 }
-nav a :hover{
+nav a:hover{
     color: chocolate;
 }
 .uno{
