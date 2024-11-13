@@ -14,7 +14,7 @@ nav a{
     font-weight: bold;
 }
 nav a :hover{
-    color: purple;
+    color: blue;
 }
 /*Estilo de seccion principal,Subtitulos, parrafos*/
 .contenedor{
@@ -22,7 +22,7 @@ nav a :hover{
     margin: 20px auto;
     padding: 20px auto;
     background-color: blanchedalmond;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow:  0 0 10px rgb(68, 0, 255);
 }
 .contenedor h2{
