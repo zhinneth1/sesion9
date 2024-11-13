@@ -1,10 +1,10 @@
 /*Estilo de emcabezado*/
 header{
-    background-color: aqua;
+    background-color: turquoise;
     padding: 20px;
     text-align: center;
     color: black;
-    border-radius: 20;
+    border-radius: 20px;
 }
 /*Estilo de barra de navegadores y al dar clic*/
 nav a{
