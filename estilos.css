@@ -16,7 +16,7 @@ nav a{
 nav a :hover{
     color: purple;
 }
-/*Estilo de seccion principal*/
+/*Estilo de seccion principal,Subtitulos, parrafos*/
 .contenedor{
     width: 90%;
     margin: 20px auto;
@@ -25,12 +25,9 @@ nav a :hover{
     border-radius: 10px;
     box-shadow:  0 0 10px rgb(68, 0, 255);
 }
-/*Estilo de Subtitulos*/
-
 .contenedor h2{
     color: brown;
 }
-/*Estilo de parrafos*/
 .contenedor p{
     color: darkcyan;
     font-size: 20px;
