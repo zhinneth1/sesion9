@@ -4,11 +4,12 @@ header{
     padding: 20px;
     text-align: center;
     color: black;
+    border-radius: 20;
 }
 /*Estilo de barra de navegadores*/
 nav a{
     color: black;
-    text-decoration: lightcoral;
+    text-decoration: rgb(255, 0, 0);
     font-weight: bold;
 }
 /*Estilo de barra de navegadores al dar clic*/
@@ -37,6 +38,7 @@ nav a :hover{
 }
 /*Estilo de Pie de pagina*/
 footer{
+    background-color: gainsboro;
     color: darkblue;
     text-align: center;
     padding: 10px;
