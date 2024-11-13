@@ -1,0 +1,44 @@
+/*Estilo de emcabezado*/
+header{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+/*Estilo de barra de navegadores*/
+nav a{
+    color: black;
+    text-decoration: lightcoral;
+    font-weight: bold;
+}
+/*Estilo de barra de navegadores al dar clic*/
+nav a :hover{
+    color: purple;
+}
+/*Estilo de seccion principal*/
+.contenedor{
+    width: 90%;
+    margin: 20px auto;
+    padding: 20px auto;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    box-shadow:  0 0 10px rgb(68, 0, 255);
+}
+/*Estilo de Subtitulos*/
+
+.contenedor h2{
+    color: brown;
+}
+/*Estilo de parrafos*/
+.contenedor p{
+    color: darkcyan;
+    font-size: 20px;
+    line-height: 1.6;
+}
+/*Estilo de Pie de pagina*/
+footer{
+    color: darkblue;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
