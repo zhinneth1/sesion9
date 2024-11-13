@@ -17,7 +17,7 @@ nav a :hover{
     color: blue;
 }
 /*Estilo de seccion principal,Subtitulos, parrafos*/
-.navegar{
+.uno{
     width: 90%;
     margin: 20px auto;
     padding: 20px auto;
@@ -25,10 +25,10 @@ nav a :hover{
     border-radius: 20px;
     box-shadow:  0 0 10px rgb(68, 0, 255);
 }
-.navegar h2{
+.uno h2{
     color: brown;
 }
-.navegar p{
+.uno p{
     color: darkcyan;
     font-size: 20px;
     line-height: 1.6;
