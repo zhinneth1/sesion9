@@ -6,13 +6,13 @@ header{
     color: black;
     border-radius: 20;
 }
-/*Estilo de barra de navegadores*/
+/*Estilo de barra de navegadores y al dar clic*/
 nav a{
+    background-color: lightgray;
     color: black;
     text-decoration: rgb(255, 0, 0);
     font-weight: bold;
 }
-/*Estilo de barra de navegadores al dar clic*/
 nav a :hover{
     color: purple;
 }
